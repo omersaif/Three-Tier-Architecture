@@ -1,4 +1,4 @@
-# three-tier-architecture
+# Three-Tier-architecture
 
 <p align="center">
   <img src ="https://img.shields.io/badge/Terraform-412991.svg?style&logo=Terraform&logoColor=white"/>
